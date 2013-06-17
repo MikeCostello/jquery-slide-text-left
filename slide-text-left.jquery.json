@@ -7,7 +7,7 @@
         "slider",
         "animation"
     ],
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author": {
         "name": "Mike Costello",
         "email": "michael.a.costello@gmail.com"
@@ -20,5 +20,6 @@
     ],
     "dependencies": {
         "jquery": ">=1.5"
-    }
+    },
+    "demo": "http://mikecostello.github.io/jquery-slide-text-left/"
 }
