@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Insert</title>
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet" type="text/css">
+	<style>
+	h1 {
+		font-family: 'Open Sans', sans-serif;
+		font-weight: 300;
+	}
+	</style>
+
+	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+	<script src="jquery.slide-text-left.js"></script>
+	<script type="text/javascript">
+		$(function() {
+			$(".slideText").slideTextLeft(
+				{ words: ["ideas", "business", "passion"], delay: 1000 }
+				//{ words: "business" }
+				//"business"
+				//["ideas", "business", "passion"], 100
+			);
+		});
+	</script>
+</head>
+<body>
+	<h1>Bring your <span class="slideText">ideas</span> to the web</h1>
+</body>
+</html>

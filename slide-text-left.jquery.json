@@ -1,0 +1,24 @@
+{
+	"name": "slide-text-left",
+	"title": "Text Slider",
+    "description": "jQuery plugin for animating through an array of strings",
+    "keywords": [
+        "text",
+        "slider",
+        "animation"
+    ],
+    "version": "1.0",
+    "author": {
+        "name": "Mike Costello",
+        "email": "michael.a.costello@gmail.com"
+    },
+    "licenses": [
+        {
+            "type": "Apache v2",
+            "url": "http://www.apache.org/licenses/LICENSE-2.0"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
