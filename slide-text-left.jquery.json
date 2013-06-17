@@ -1,6 +1,6 @@
 {
-	"name": "slide-text-left",
-	"title": "Text Slider",
+    "name": "slide-text-left",
+    "title": "Text Slider",
     "description": "jQuery plugin for animating through an array of strings",
     "keywords": [
         "text",
